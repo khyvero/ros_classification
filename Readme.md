@@ -155,3 +155,13 @@ Breast cancer classifier reached 95% accuracy. A few malignant cases were miside
 ![Cancer & Penguin Overview](readmeimages/overview_cancer_penguin.png)  
 ![Cancer & Penguin Evaluation](readmeimages/evaluation_cancer_penguin.png)  
 ![Cancer & Penguin Importances](readmeimages/feature_importance_cancer_penguin.png)  
+
+**Credits**
+
+Project created by: Veronica Kwok
+
+This project was created at the University of Europe for Applied Sciences Potsdam. 
+
+Supervised by: Dr. Aditya Mushyam 
+
+Subject: Vehicular Technology, Software Optimization (Summer Semester 2025)
